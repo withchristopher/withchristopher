@@ -15,10 +15,10 @@
 <br>
 
 <h1 align="center">About me</h1>
-<h2 align="center">
+<h4 align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Serif&duration=6000&color=3F94F7&center=true&lines=I+am+a+full-stack+developer...;Against+misinformation.;I+am+based+in+Oslo%2C+Norway.;I+teach+coding+as+a+hobby.)](https://git.io/typing-svg)
-</h2>
+</h4>
 <ul style="list-style-type:none;">
     <p>💥 I lived in South Africa for my first 30 years. I have experience in designing secure network infrastructure as a systems engineer at Cisco. I have built open source software used by The Hague Legal Tech Alliance (THLTA).</p>
     <p>🧯  I currently work as an engineer for a research based startup solving one of the largest problems we face in the digital world, misinformation. You can see more about Factiverse AS [here](https://www.factiverse.no)</p>
@@ -42,7 +42,7 @@
 <a target="_blank" href="https://lifefile.co.za/">
                         <img style="padding:1rem"  src="images/feature-tile-icon-00.gif" alt="Feature tile icon 00" width="45%" />
                       </a>
- <a target="_blank" href="https://learn-full-stack-modules.herokuapp.com/">
+ <a target="_blank" href="https://learn-full-st.herokuapp.com/">
                         <img style="padding:1rem"  src="images/feature-tile-icon-01.gif" alt="Feature tile icon 01" width="45%" />
                       </a>
                       </div>
