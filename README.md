@@ -19,7 +19,7 @@
 
 </h1>
 
-<h3><abbr title="Christopher Maxwell">About me</abbr></h3>
+<h1><abbr title="Christopher Maxwell">About me</abbr></h1>
 <ul style="list-style-type:none;">
     <details>
       <summary> Who am I?</summary>
@@ -50,7 +50,7 @@
 
 <div align="center">
 <div>
-<p align="center">Portfolio</p>
+<h1 align="center">Portfolio</h1>
 </div>
 <a target="_blank" href="https://lifefile.co.za/">
                         <img style="padding:1rem"  src="images/feature-tile-icon-00.gif" alt="Feature tile icon 00" width="45%" />
