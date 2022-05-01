@@ -13,34 +13,31 @@
   <a/>
 <p/>
 <br>
-<h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Serif&color=3F94F7&lines=I+am+a+full-stack+developer...;solving+the+spread+of+misinformation.;I+am+based+in+Oslo%2C+Norway.;I+was+born+in+Cape+Town%2C+South+Africa.)](https://git.io/typing-svg)
+<h1 align="center">About me</h1>
+<h2 align="center">
 
-</h1>
-
-<h1><abbr title="Christopher Maxwell">About me</abbr></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Serif&duration=7000&color=3F94F7&center=true&lines=I+am+a+full-stack+developer...;Solving+the+spread+of+misinformation.;I+am+based+in+Oslo%2C+Norway.)](https://git.io/typing-svg)
+</h2>
 <ul style="list-style-type:none;">
-      <p>💥  I am Christopher Maxwell. I lived in South Africa for my first 30 years. I have skills
-  in designing secure network infrastructure as a systems engineer at Cisco. I have built open source software for the courts in The Hague.</p>
+    <p>💥 I lived in South Africa for my first 30 years. I have experience in designing secure network infrastructure as a systems engineer at Cisco. I have built open source software used by The Hague Legal Tech Alliance (THLTA).</p>
     <p>🧯  I currently work as an engineer for a research based startup solving one of the largest problems we face in the digital world, misinformation. You can see more about Factiverse AS [here](https://www.factiverse.no)</p>
     <p>🐾  I hold a BSc Mathematics and Physics (RU) and BSc(HONS) in Quantum Information Science (UKZN).</p></ul>
-<div align="center">
 
-</div>
+<br>
 
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b></b></i></p>
- 
+<h1 align="center">Code statistics</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=withchristopher&show_icons=true&locale=en&layout=compact&theme=react-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=withchristopher&show_icons=true&locale=en&theme=react-dark" alt="ovi" width="410" /></p>
+<br><br>
 <br><br><br><br><br>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=withchristopher&theme=github&hide_border=true&area=true)
 
+<br>
+<h1 align="center">My previous projects</h1>
 <div align="center">
 <div>
-<h1 align="center">Portfolio</h1>
 </div>
 <a target="_blank" href="https://lifefile.co.za/">
                         <img style="padding:1rem"  src="images/feature-tile-icon-00.gif" alt="Feature tile icon 00" width="45%" />
