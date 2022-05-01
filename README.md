@@ -34,7 +34,6 @@
     <p>🎯  Currently, I am an engineer for a research based startup solving one of the largest problems we face in the digital world, misinformation.</p>
     <p>🐾  I lived in South Africa for my first 30 years. I hold a BSc Mathematics and Physics (RU) and BSc(HONS) in Quantum Information Science (UKZN).</p></ul>
 
-<br>
 
 <h1 style="color:#3572A5" align="center">Code statistics</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=withchristopher&show_icons=true&locale=en&layout=compact&theme=react-dark" alt="ovi" /></p>
