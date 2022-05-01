@@ -16,7 +16,7 @@
 
 <h4 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&color=9ECBFE&lines=Hi%2C+my+name+is+Chris!;I+am+a+full-stack+developer...;Building+tools+to+combat...;Fakenews+misinformation.;Also,+teaching+coding+as+a+hobby.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&color=3572A5&lines=Hi%2C+my+name+is+Chris!;I+am+a+full-stack+developer...;Building+tools+to+combat...;Fakenews+misinformation.;I+teach+coding+as+a+hobby.)](https://git.io/typing-svg)
 
 </h4>
 
@@ -40,10 +40,10 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=withchristopher&theme=github&hide_border=true&area=true)
 
 <br>
-<h2 style="color:#3572A5" align="center">Would you like...</h2>
+<h2 style="color:#3572A5" align="center">Developing apps using...</h2>
 <h4 align="center" >
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=9ECBFE&center=true&lines=JS+or+TS+React%3F;SQL+or+NoSQL+db%3F;Python+or+NodeJS%3F;Stripe+or+Payfast%3F;AWS+or+GCP%3F;MERN+or+FARM+stack%3F;Server+or+client-side%3F;NESTjs+or+NEXTjs%3F;RESTful+or+GraphQL+API%3F;Apollo+server+or+Express%3F;ACM+or+Certbot%3F;PassportJS+or+OAuth2%3F;Heroku+or+AWS%3F;Bootstrap+or+Chakra%3F;Serverless+or+self-hosted%3F;Progressive+web+app%3F;Cookies+or+localstorage%3F;Code+or+schema+first%3F;Component+Library%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=3572A5&center=true&lines=JS+or+TS+React%3F;SQL+or+NoSQL+db%3F;Python+or+NodeJS%3F;Stripe+or+Payfast%3F;AWS+or+GCP%3F;MERN+or+FARM+stack%3F;Server+or+client-side%3F;NESTjs+or+NEXTjs%3F;RESTful+or+GraphQL+API%3F;Apollo+server+or+Express%3F;ACM+or+Certbot%3F;PassportJS+or+OAuth2%3F;Heroku+or+AWS%3F;Bootstrap+or+Chakra%3F;Serverless+or+self-hosted%3F;Progressive+web+app%3F;Cookies+or+localstorage%3F;Code+or+schema+first%3F;Component+Library%3F)](https://git.io/typing-svg)
 </h4>
 <!-- <div align="center">
 
