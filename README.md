@@ -21,7 +21,7 @@
 </h4>
 <ul style="list-style-type:none;">
     <p>💥 I lived in South Africa for my first 30 years. I have experience in designing secure network infrastructure as a systems engineer at Cisco. I have built open source software used by The Hague Legal Tech Alliance (THLTA).</p>
-    <p>🧯  I currently work as an engineer for a research based startup solving one of the largest problems we face in the digital world, misinformation. You can see more about Factiverse AS [here](https://www.factiverse.no)</p>
+    <p>🧯  I currently work as an engineer for a research based startup solving one of the largest problems we face in the digital world, misinformation.</p>
     <p>🐾  I hold a BSc Mathematics and Physics (RU) and BSc(HONS) in Quantum Information Science (UKZN).</p></ul>
 
 <br>
