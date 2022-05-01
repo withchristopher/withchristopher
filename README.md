@@ -21,20 +21,10 @@
 
 <h1><abbr title="Christopher Maxwell">About me</abbr></h1>
 <ul style="list-style-type:none;">
-    <details>
-      <summary> Who am I?</summary>
-      <p>I am Christopher Maxwell. I lived in South Africa for my first 30 years. I have skills
+      <p>💥  I am Christopher Maxwell. I lived in South Africa for my first 30 years. I have skills
   in designing secure network infrastructure as a systems engineer at Cisco. I have built open source software for the courts in The Hague.</p>
-    </details>
-    <details>
-      <summary> What work do I do?</summary>
-      <p>I currently work as an engineer for a research based startup solving one of the largest problems we face in the digital world, misinformation. You can see more about Factiverse AS [here](https://www.factiverse.no)</p>
-    </details>
-    <details>
-      <summary> My education</summary>
-      <p>I hold a BSc Mathematics and Physics (RU) and BSc(HONS) in Quantum Information Science (UKZN).</p>
-    </details>
-</ul>
+    <p>🧯  I currently work as an engineer for a research based startup solving one of the largest problems we face in the digital world, misinformation. You can see more about Factiverse AS [here](https://www.factiverse.no)</p>
+    <p>🐾  I hold a BSc Mathematics and Physics (RU) and BSc(HONS) in Quantum Information Science (UKZN).</p></ul>
 <div align="center">
 
 </div>
@@ -79,8 +69,5 @@
 </div>
 
 <h4 align="center">
-Credit: [withchristopher](https://github.com/withchristopher)
-
-Last Edited on: 01/05/2022.
-  
+Last Edited on: 01/05/2022. 
 </h4>
