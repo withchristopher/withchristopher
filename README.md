@@ -14,6 +14,11 @@
 <p/>
 <br>
 
+<h4 align="center">
+<img src="./images/header.png" alt="header banner image" />
+<h4>
+
+
 <!-- <h4 align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&center=true&color=3572A5&lines=Hi%2C+my+name+is+Chris!;I+am+a+full-stack+developer...;Building+tools+to+combat...;Fakenews+misinformation.;I+teach+coding+as+a+hobby.)](https://git.io/typing-svg)
