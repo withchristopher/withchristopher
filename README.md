@@ -13,9 +13,9 @@
   <a/>
 <p/>
 
-<h4 align="center">
+<!-- <h4 align="center">
 <img src="./images/header.png" alt="header banner image" />
-<h4>
+<h4> -->
 
 
 <!-- <h4 align="center">
