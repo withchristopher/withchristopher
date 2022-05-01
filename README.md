@@ -21,7 +21,7 @@
 
 <h4 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Serif&duration=6000&color=3F94F7&center=true&lines=I+am+a+full-stack+developer...;Working+against+misinformation.;I+am+based+in+Oslo%2C+Norway.;I+teach+coding+as+a+hobby.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&lines=Hi%2C+my+name+is+Chris!;I+am+a+full-stack+developer...;NoSQL+or+SQL+database%3F;Python+NLP+inference+API%3F;Stripe+or+Payfast+integration%3F;JS+or+TS+React+client+app%3F;MERN+or+FARM+stack+app%3F;Server+or+client-side+rendering%3F;NESTjs+or+NEXTjs+%3F;Python+or+NodeJS+backend%3F;HTML%2FCSS%2FJS+client+app%3F;AWS+or+GCP+%3F;PassportJS+or+OAuth2%3F;RESTful+or+GraphQL+API%3F;Heroku+or+AWS+deployment%3F;Serverless+or+self-hosted%3F;Progressive+web+app%3F)](https://git.io/typing-svg)
 </h4>
 <ul style="list-style-type:none;">
     <p>💥 I have experience in designing secure network infrastructure as a systems engineer at Cisco. I have built open source software used by The Hague Legal Tech Alliance (THLTA).</p>
