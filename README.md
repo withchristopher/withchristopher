@@ -21,7 +21,7 @@
 
 <h4 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&lines=Hi%2C+my+name+is+Chris!;JS+or+TS+React%3F;NoSQL+or+SQL+db%3F;Python+or+NodeJS%3F;Stripe+or+Payfast%3F;AWS+or+GCP%3F;MERN+or+FARM+stack%3F;Server+or+client-side%3F;NESTjs+or+NEXTjs%3F;RESTful+or+GraphQL+API%3F;Apollo+server+or+express%3F;API+integration%3F;PassportJS+or+OAuth2%3F;Heroku+or+AWS%3F;Bootstrap+or+Chakra+UI%3F;Serverless+or+self-hosted%3F;Progressive+web+app%3F;Cookies+or+localstorage%3F;Code+or+Schema+first%3F;Component+Library%3F;Inference+API%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&center=true&lines=Hi%2C+my+name+is+Chris!;JS+or+TS+React%3F;SQL+or+NoSQL+db%3F;Python+or+NodeJS%3F;Stripe+or+Payfast%3F;AWS+or+GCP%3F;MERN+or+FARM+stack%3F;Server+or+client-side%3F;NESTjs+or+NEXTjs%3F;RESTful+or+GraphQL+API%3F;Apollo+server+or+Express%3F;ACM+or+Certbot%3F;PassportJS+or+OAuth2%3F;Heroku+or+AWS%3F;Bootstrap+or+Chakra%3F;Serverless+or+self-hosted%3F;Progressive+web+app%3F;Cookies+or+localstorage%3F;Code+or+schema+first%3F;Component+Library%3F;Inference+API%3F)](https://git.io/typing-svg)
 
 </h4>
 <ul style="list-style-type:none;">
