@@ -42,7 +42,7 @@
 <a target="_blank" href="https://lifefile.co.za/">
                         <img style="padding:1rem"  src="images/feature-tile-icon-00.gif" alt="Feature tile icon 00" width="45%" />
                       </a>
- <a target="_blank" href="https://learning-module-application.herokuapp.com/">
+ <a target="_blank" href="https://learn-full-stack-modules.herokuapp.com/">
                         <img style="padding:1rem"  src="images/feature-tile-icon-01.gif" alt="Feature tile icon 01" width="45%" />
                       </a>
                       </div>
