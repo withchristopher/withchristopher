@@ -1,3 +1,18 @@
+<p align="center">
+  <a href="mailto:chris@factiverse.no">
+     <img  src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
+  <a/>&nbsp;
+  <a href="https://www.linkedin.com/in/christopher-maxwell-aa377196/">
+     <img  src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn">
+  <a/>&nbsp;
+  <a href="https://twitter.com/withchristopher">
+     <img  src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter">
+  <a/>&nbsp;
+  <a href="https://withchristopher.github.io/">
+     <img  src="https://img.shields.io/badge/website-C3897E?style=for-the-badge&logo=about.me&logoColor=white" alt="website">
+  <a/>
+<p/>
+<br>
 <h1 align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Serif&color=3F94F7&lines=I+am+a+full-stack+developer...;solving+the+spread+of+misinformation.;I+am+based+in+Oslo%2C+Norway.;I+was+born+in+Cape+Town%2C+South+Africa.)](https://git.io/typing-svg)
@@ -23,24 +38,9 @@
 <div align="center">
 
 </div>
-<p align="center">
-  <a href="mailto:chris@factiverse.no">
-     <img  src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
-  <a/>&nbsp;
-  <a href="https://www.linkedin.com/in/christopher-maxwell-aa377196/">
-     <img  src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn">
-  <a/>&nbsp;
-  <a href="https://twitter.com/withchristopher">
-     <img  src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter">
-  <a/>&nbsp;
-  <a href="https://withchristopher.github.io/">
-     <img  src="https://img.shields.io/badge/website-C3897E?style=for-the-badge&logo=about.me&logoColor=white" alt="website">
-  <a/>
-<p/>
 
-<h1><h1/>
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Working</b></i></p>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b></b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=withchristopher&show_icons=true&locale=en&layout=compact&theme=react-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=withchristopher&show_icons=true&locale=en&theme=react-dark" alt="ovi" width="410" /></p>
