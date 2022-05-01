@@ -14,11 +14,11 @@
 <p/>
 <br>
 
-<h4 align="center">
+<!-- <h4 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&color=3572A5&lines=Hi%2C+my+name+is+Chris!;I+am+a+full-stack+developer...;Building+tools+to+combat...;Fakenews+misinformation.;I+teach+coding+as+a+hobby.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&center=true&color=3572A5&lines=Hi%2C+my+name+is+Chris!;I+am+a+full-stack+developer...;Building+tools+to+combat...;Fakenews+misinformation.;I+teach+coding+as+a+hobby.)](https://git.io/typing-svg)
 
-</h4>
+</h4> -->
 
 <h1 style="color:#3572A5" align="center">About me</h1>
 <div>
