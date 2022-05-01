@@ -12,7 +12,6 @@
      <img  src="https://img.shields.io/badge/website-C3897E?style=for-the-badge&logo=about.me&logoColor=white" alt="website">
   <a/>
 <p/>
-<br>
 
 <h4 align="center">
 <img src="./images/header.png" alt="header banner image" />
