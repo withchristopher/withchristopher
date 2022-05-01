@@ -16,7 +16,7 @@
 
 <h4 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&color=9ECBFE&lines=Hi%2C+my+name+is+Chris!;I+am+a+full-stack+developer...;Creating+tools+for...;Fighting+misinformation.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&color=9ECBFE&lines=Hi%2C+my+name+is+Chris!;I+am+a+full-stack+developer...;Building+tools+to+combat...;Fakenews+misinformation.)](https://git.io/typing-svg)
 
 </h4>
 
