@@ -17,7 +17,7 @@
 <h1 align="center">About me</h1>
 <h2 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Serif&duration=7000&color=3F94F7&center=true&lines=I+am+a+full-stack+developer...;Solving+the+spread+of+misinformation.;I+am+based+in+Oslo%2C+Norway.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Serif&duration=6000&color=3F94F7&center=true&lines=I+am+a+full-stack+developer...;Against+misinformation.;I+am+based+in+Oslo%2C+Norway.;I+teach+coding+as+a+hobby.)](https://git.io/typing-svg)
 </h2>
 <ul style="list-style-type:none;">
     <p>💥 I lived in South Africa for my first 30 years. I have experience in designing secure network infrastructure as a systems engineer at Cisco. I have built open source software used by The Hague Legal Tech Alliance (THLTA).</p>
