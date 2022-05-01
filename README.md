@@ -17,7 +17,6 @@
 <h1 align="center">About me</h1>
 <div>
 
-<img style="padding:1rem"  src="images/dev-chris-vid.mp4" alt="Feature tile icon 01" width="100%" />
 </div>
 
 <h4 align="center">
