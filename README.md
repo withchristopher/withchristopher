@@ -1,21 +1,3 @@
-<style>
-    details > summary {
-    list-style-type: 'ℹ️';
-}
-
-details[open] > summary {
-    list-style-type: '🔽';
-}
-
-details {
-    border-radius: 0.2rem;
-    padding: 0.1rem;
-}
-
-details[open] > summary {
-    margin-bottom: 0.5rem;
-}
-</style>
 <h1 align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Serif&size=15&duration=7500&color=3F94F7&vCenter=true&multiline=true&lines=I+am+Christopher+Maxwell%2C+I+am+a+full-stack+developer...;Solving+the+problems+with+misinformation+at+Factiverse...;I+am+based+in+Oslo%2C+Norway.;+I+was+born+in+Cape+Town%2C+South+Africa.)](https://git.io/typing-svg)
