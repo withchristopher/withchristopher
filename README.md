@@ -16,11 +16,11 @@
 
 <h4 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Hi%2C+my+name+is+Chris!;I+am+a+full-stack+developer...;Creating+tools+for...;Fighting+misinformation.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&color=9ECBFE&lines=Hi%2C+my+name+is+Chris!;I+am+a+full-stack+developer...;Creating+tools+for...;Fighting+misinformation.)](https://git.io/typing-svg)
 
 </h4>
 
-<h1 align="center">About me</h1>
+<h1 style="color:#3572A5" align="center">About me</h1>
 <div>
 
 </div>
@@ -31,7 +31,7 @@
 
 <br>
 
-<h1 align="center">Code statistics</h1>
+<h1 style="color:#3572A5" align="center">Code statistics</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=withchristopher&show_icons=true&locale=en&layout=compact&theme=react-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=withchristopher&show_icons=true&locale=en&theme=react-dark" alt="ovi" width="410" /></p>
 <br><br>
@@ -40,10 +40,10 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=withchristopher&theme=github&hide_border=true&area=true)
 
 <br>
-<h1 align="center">Would you like...</h1>
-<h4 align="center">
+<h2 style="color:#3572A5" align="center">Would you like...</h2>
+<h4 align="center" >
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&center=true&multiline=true&width=600&height=510&lines=JS+or+TS+React%3F;SQL+or+NoSQL+db%3F;Python+or+NodeJS%3F;Stripe+or+Payfast%3F;AWS+or+GCP%3F;MERN+or+FARM+stack%3F;Server+or+client-side%3F;NESTjs+or+NEXTjs%3F;RESTful+or+GraphQL+API%3F;Apollo+server+or+Express%3F;ACM+or+Certbot%3F;PassportJS+or+OAuth2%3F;Heroku+or+AWS%3F;Bootstrap+or+Chakra%3F;Serverless+or+self-hosted%3F;Progressive+web+app%3F;Cookies+or+localstorage%3F;Code+or+schema+first%3F;Component+Library%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=9ECBFE&center=true&lines=JS+or+TS+React%3F;SQL+or+NoSQL+db%3F;Python+or+NodeJS%3F;Stripe+or+Payfast%3F;AWS+or+GCP%3F;MERN+or+FARM+stack%3F;Server+or+client-side%3F;NESTjs+or+NEXTjs%3F;RESTful+or+GraphQL+API%3F;Apollo+server+or+Express%3F;ACM+or+Certbot%3F;PassportJS+or+OAuth2%3F;Heroku+or+AWS%3F;Bootstrap+or+Chakra%3F;Serverless+or+self-hosted%3F;Progressive+web+app%3F;Cookies+or+localstorage%3F;Code+or+schema+first%3F;Component+Library%3F)](https://git.io/typing-svg)
 </h4>
 <!-- <div align="center">
 
@@ -73,11 +73,11 @@
                     </div>
 </div> -->
 
-<!-- <h4 align="center">
+<!-- <h4 align="center" >
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=2000&color=F7F7F7&background=000000&multiline=true&width=600&height=350&lines=%24+npx+create-react-app+client+--template+typescript;Creating+a+new+React+app+in+%2Fclient.;...;Success!+Created+client+at+%2Fclient;%24+cd+client+%26%26+npm+install+%40withchristopher%2Fdesign-system;Installing+packages;...;Successfully+installed+packages;%24+npm+run+build;Creating+an+optimized+production+build...;...;The+project+was+built+assuming+it+is+hosted+at+%2F.;%24+npm+run+start;Running+on+http%3A%2F%2Flocalhost%3A3000%2F)](https://git.io/typing-svg)
-<h4>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=2000&color=F7F7F7&background=000000&multiline=true&width=800&height=350&lines=%24+npx+create-react-app+client+--template+typescript;Creating+a+new+React+app+in+%2Fclient.;...;Success!+Created+client+at+%2Fclient;%24+cd+client+%26%26+npm+install+%40withchristopher%2Fdesign-system;Installing+packages;...;Successfully+installed+packages;%24+npm+run+build;Creating+an+optimized+production+build...;...;The+project+was+built+assuming+it+is+hosted+at+%2F.;%24+npm+run+start;Running+on+http%3A%2F%2Flocalhost%3A3000%2F)](https://git.io/typing-svg)
+<h4> -->
 
-<h4 align="center"> -->
+<h4 align="center">
 Last Edited on: 01/05/2022. 
 </h4>
