@@ -15,14 +15,19 @@
 <br>
 
 <h1 align="center">About me</h1>
+<div>
+
+<img style="padding:1rem"  src="images/dev-chris-vid.mp4" alt="Feature tile icon 01" width="100%" />
+</div>
+
 <h4 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Serif&duration=6000&color=3F94F7&center=true&lines=I+am+a+full-stack+developer...;Against+misinformation.;I+am+based+in+Oslo%2C+Norway.;I+teach+coding+as+a+hobby.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Serif&duration=6000&color=3F94F7&center=true&lines=I+am+a+full-stack+developer...;Working+against+misinformation.;I+am+based+in+Oslo%2C+Norway.;I+teach+coding+as+a+hobby.)](https://git.io/typing-svg)
 </h4>
 <ul style="list-style-type:none;">
-    <p>💥 I lived in South Africa for my first 30 years. I have experience in designing secure network infrastructure as a systems engineer at Cisco. I have built open source software used by The Hague Legal Tech Alliance (THLTA).</p>
-    <p>🧯  I currently work as an engineer for a research based startup solving one of the largest problems we face in the digital world, misinformation.</p>
-    <p>🐾  I hold a BSc Mathematics and Physics (RU) and BSc(HONS) in Quantum Information Science (UKZN).</p></ul>
+    <p>💥 I have experience in designing secure network infrastructure as a systems engineer at Cisco. I have built open source software used by The Hague Legal Tech Alliance (THLTA).</p>
+    <p>🎯  Currently, I am an engineer for a research based startup solving one of the largest problems we face in the digital world, misinformation.</p>
+    <p>🐾  I lived in South Africa for my first 30 years. I hold a BSc Mathematics and Physics (RU) and BSc(HONS) in Quantum Information Science (UKZN).</p></ul>
 
 <br>
 
