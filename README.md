@@ -19,7 +19,7 @@ details[open] > summary {
 </style>
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Serif&size=15&duration=7500&color=3F94F7&center=true&vCenter=true&lines=My+name+is+Christopher+Maxwell%2C+I+am+a+full-stack+developer...;Solving+the+problems+with+misinformation+at+Factiverse...;I+am+based+in+Oslo%2C+Norway.;+I+was+born+in+Cape+Town%2C+South+Africa.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Serif&size=15&duration=7500&color=3F94F7&center=true&vCenter=true&lines=I am Christopher+Maxwell%2C+I+am+a+full-stack+developer...;Solving+the+problems+with+misinformation+at+Factiverse...;I+am+based+in+Oslo%2C+Norway.;+I+was+born+in+Cape+Town%2C+South+Africa.)](https://git.io/typing-svg)
 </h1>
 
 <h3><abbr title="Christopher Maxwell">About me</abbr></h3>
