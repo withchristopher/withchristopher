@@ -21,7 +21,8 @@
 
 <h4 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&lines=Hi%2C+my+name+is+Chris!;I+am+a+full-stack+developer...;NoSQL+or+SQL+database%3F;Python+NLP+inference+API%3F;Stripe+or+Payfast+integration%3F;JS+or+TS+React+client+app%3F;MERN+or+FARM+stack+app%3F;Server+or+client-side+rendering%3F;NESTjs+or+NEXTjs+%3F;Python+or+NodeJS+backend%3F;HTML%2FCSS%2FJS+client+app%3F;AWS+or+GCP+%3F;PassportJS+or+OAuth2%3F;RESTful+or+GraphQL+API%3F;Heroku+or+AWS+deployment%3F;Serverless+or+self-hosted%3F;Progressive+web+app%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&lines=Hi%2C+my+name+is+Chris!;JS+or+TS+React%3F;NoSQL+or+SQL+db%3F;Python+or+NodeJS%3F;Stripe+or+Payfast%3F;AWS+or+GCP%3F;MERN+or+FARM+stack%3F;Server+or+client-side%3F;NESTjs+or+NEXTjs%3F;RESTful+or+GraphQL+API%3F;Apollo+server+or+express%3F;API+integration%3F;PassportJS+or+OAuth2%3F;Heroku+or+AWS%3F;Bootstrap+or+Chakra+UI%3F;Serverless+or+self-hosted%3F;Progressive+web+app%3F;Cookies+or+localstorage%3F;Code+or+Schema+first%3F;Component+Library%3F;Inference+API%3F)](https://git.io/typing-svg)
+
 </h4>
 <ul style="list-style-type:none;">
     <p>💥 I have experience in designing secure network infrastructure as a systems engineer at Cisco. I have built open source software used by The Hague Legal Tech Alliance (THLTA).</p>
