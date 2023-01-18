@@ -31,15 +31,6 @@
     <p>🎯  Currently, I am an engineer for a research based startup developing tools to combat misinformation. You can read more about <a target="_blank" href="https://www.factiverse.no">Factiverse AS</a>.</p>
     <p>🐾  I lived in South Africa for my first 30 years. I hold a BSc Mathematics and Physics (RU) and BSc(HONS) in Quantum Information Science (UKZN).</p></ul>
 
-
-<h1 style="color:#3572A5" align="center">Code statistics</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=withchristopher&show_icons=true&locale=en&layout=compact&theme=react-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=withchristopher&show_icons=true&locale=en&theme=react-dark" alt="ovi" width="410" /></p>
-<br><br>
-<br><br><br><br><br>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=withchristopher&theme=github&hide_border=true&area=true)
-
 <br>
 <h2 style="color:#3572A5" align="center">Developing applications using...</h2>
 <h4 align="center" >
