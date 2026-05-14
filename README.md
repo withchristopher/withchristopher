@@ -28,7 +28,7 @@
 </div>
 <ul style="list-style-type:none;">
     <p>💥 I have experience in designing secure network infrastructure as a systems engineer at Cisco. I have built open source software used by The Hague Legal Tech Alliance (THLTA).</p>
-    <p>🎯  Currently, I am an a Technical Customer Success Manager for a AI-accelerated SDLC platform, KAVIA AI.</p>
+    <p>🎯  Currently, I am an a Forward Deployed Engineer Lead and Head of Deployement Solutions for a AI-accelerated SDLC platform, KAVIA AI.</p>
     <p>🐾  I have lived in South Africa, New Zealand, The Netherlandsa and Norway. I hold two degrees: BSc Mathematics and Physics (RU) and BSc(HONS) in Physics (UKZN).</p></ul>
 
 <br>
